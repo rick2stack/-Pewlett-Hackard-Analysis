@@ -25,5 +25,7 @@ As mentioned before, 90 thousand employees are due for retirement, some analysit
 
 ![Retiring_Personnel_Demographics](https://github.com/rick2stack/-Pewlett-Hackard-Analysis/blob/main/Resources/Retiring%20Personnel.png)
 
-A further analsis reveals that the demographic for potential mentors is the same from '1962-01-01' to '1965-12-31' but yielded 56 thousand potential mentorees. By tapping into a larger pool of staff engineers and engineers, we can have the desire mentors and mentorees that the buisness needs. 
+A further analsis reveals that the demographic for potential mentors is the same from '1962-01-01' to '1965-12-31' but yielded 56 thousand potential mentorees. By tapping into a larger pool of staff engineers and engineers, we can have the desire mentors and mentorees that the buisness needs.  
+  
+  
 ![Potential_Mentorship_4_years](https://github.com/rick2stack/-Pewlett-Hackard-Analysis/blob/main/Resources/Potential%20Mentorees_4%20year%20birth.png)
